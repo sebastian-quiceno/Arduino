@@ -4,6 +4,9 @@ Proyecto educativo de Arduino que utiliza cuatro LEDs para representar números
 decimales en formato binario. El circuito cuenta del `0` al `15`, muestra cada
 valor durante un segundo y luego reinicia la secuencia.
 
+![Arduino Bits](docs\images\ArduinoBinario.png)
+
+> [!IMPORTANT]
 > El proyecto está pensado para aprender los fundamentos de Arduino, la
 > representación binaria y el control de salidas digitales.
 
@@ -27,8 +30,7 @@ hasta `1111` (`15`).
 | `bit3` | D4 | 4 |
 | `bit4` | D5 | 8 |
 
-> El primer LED corresponde al bit menos significativo y el cuarto al bit más
-> significativo.
+El primer LED corresponde al bit menos significativo y el cuarto al bit más significativo.
 
 ## Simulación en Wokwi
 
@@ -37,8 +39,8 @@ circuito puede visualizarse y ejecutarse en Wokwi:
 
 [Abrir el circuito en Wokwi](https://wokwi.com/projects/476822154201427969)
 
-> La simulación sirve como referencia visual del ensamblaje. Antes de realizar
-> el montaje físico, comprueba la polaridad de los LEDs y todas las conexiones.
+> [!NOTE]
+> La simulación sirve como referencia visual del ensamblaje. Antes de realizar el montaje físico, comprueba la polaridad de los LEDs y todas las conexiones.
 
 ## Documentación
 
@@ -65,6 +67,7 @@ Resumen:
 | 4 | Resistencia | `1000 Ω` (`1 kΩ`) |
 | 9 | Cable jumper | Cantidad mínima estimada a partir de las conexiones explícitas |
 
+>[!NOTE]
 > La cantidad y la longitud exacta de los cables pueden variar según la
 > distribución física de la protoboard. Las conexiones internas de la
 > protoboard no equivalen necesariamente a cables independientes.
