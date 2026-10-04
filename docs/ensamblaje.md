@@ -2,7 +2,7 @@
 
 ## Descripción breve
 
-Para la elaboracion de este circuito se va a hacer en Workwi, puede revisar el ensamblaje en [aqui](https://wokwi.com/projects/476822154201427969)
+Para la elaboracion de este circuito se va a hacer en `Workwi`, puede revisar el ensamblaje en [aqui](https://wokwi.com/projects/476822154201427969)
 
 Los LEDs están conectados a través de sus resistencias y comparten la referencia de tierra
 del Arduino Nano.
