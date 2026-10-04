@@ -100,8 +100,9 @@ determinarse a partir del diseño.
 Consulta el siguiente enlace para visualizar cómo está ensamblado el circuito
 en Wokwi:
 
-`[INSERTAR AQUÍ EL LINK DE WOKWI]`
+`[aqui](https://wokwi.com/projects/476822154201427969)`
 
+> [!WARNING]
 > El enlace de Wokwi debe utilizarse como referencia visual del montaje. Este
 > documento resume los materiales y las precauciones, pero no sustituye la
 > comprobación del circuito físico.
