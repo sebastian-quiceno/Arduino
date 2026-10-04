@@ -4,7 +4,7 @@ Proyecto educativo de Arduino que utiliza cuatro LEDs para representar números
 decimales en formato binario. El circuito cuenta del `0` al `15`, muestra cada
 valor durante un segundo y luego reinicia la secuencia.
 
-![Arduino Bits](docs\images\ArduinoBinario.png)
+![Arduino Bits](docs/images/ArduinoBinario.png)
 
 > [!IMPORTANT]
 > El proyecto está pensado para aprender los fundamentos de Arduino, la
