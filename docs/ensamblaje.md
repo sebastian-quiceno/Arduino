@@ -98,9 +98,7 @@ determinarse a partir del diseño.
 ## Referencia para el ensamblaje
 
 Consulta el siguiente enlace para visualizar cómo está ensamblado el circuito
-en Wokwi:
-
-`[aqui](https://wokwi.com/projects/476822154201427969)`
+en Wokwi: [aqui](https://wokwi.com/projects/476822154201427969)
 
 > [!WARNING]
 > El enlace de Wokwi debe utilizarse como referencia visual del montaje. Este
