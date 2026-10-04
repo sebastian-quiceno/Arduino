@@ -35,9 +35,7 @@ El primer LED corresponde al bit menos significativo y el cuarto al bit más sig
 ## Simulación en Wokwi
 
 No es necesario disponer de un Arduino físico para probar la simulación. El
-circuito puede visualizarse y ejecutarse en Wokwi:
-
-[Abrir el circuito en Wokwi](https://wokwi.com/projects/476822154201427969)
+circuito puede visualizarse y ejecutarse en Wokwi: [Abrir el circuito en Wokwi](https://wokwi.com/projects/476822154201427969)
 
 > [!NOTE]
 > La simulación sirve como referencia visual del ensamblaje. Antes de realizar el montaje físico, comprueba la polaridad de los LEDs y todas las conexiones.
