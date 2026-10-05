@@ -14,11 +14,11 @@ valor durante un segundo y luego reinicia la secuencia.
 
 El circuito está formado por:
 
-- Un Arduino Nano.
-- Una protoboard.
-- Cuatro LEDs de color cian.
-- Cuatro resistencias de `1000 Ω` (`1 kΩ`), una por cada LED.
-- Cables jumper para reproducir las conexiones del circuito.
+- **Un** Arduino Nano.
+- **Una** protoboard.
+- **Cuatro** LEDs de color cian.
+- **Cuatro** resistencias de `1000 Ω` (`1 kΩ`), una por cada LED.
+- **Nueve** Cables jumper para reproducir las conexiones del circuito.
 
 Con cuatro bits se pueden representar `2^4 = 16` valores, desde `0000` (`0`)
 hasta `1111` (`15`).
